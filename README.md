@@ -83,6 +83,7 @@ The recovered credential was used to access the protected document and view its 
 
 <img width="1600" height="769" alt="John the Ripper" src="https://github.com/user-attachments/assets/6f39ccc9-35b0-43a9-972c-cc621d417648" />
 
+<img width="811" height="848" alt="flag1" src="https://github.com/user-attachments/assets/40ec3df4-1cd2-4f3c-b1cc-551e9fd3d467" />
 
 ---
 
@@ -142,6 +143,8 @@ The application identified a matching password and displayed the successful reco
 The password was used to access the encrypted PDF, revealing the lab completion page.
 
 <img width="1902" height="899" alt="Screenshot 03" src="https://github.com/user-attachments/assets/362242f6-76a7-4f46-9a13-5c6d0010f585" />
+
+<img width="1123" height="872" alt="flag2" src="https://github.com/user-attachments/assets/f9662e55-bcc5-421f-a403-3b38c9407c6f" />
 
 
 ---
