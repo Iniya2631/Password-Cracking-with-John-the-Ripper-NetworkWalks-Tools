@@ -80,6 +80,8 @@ The dictionary attack successfully identified the PDF password.
 `nw{cybersecurity_flag_captured_2608}`
 
 The recovered credential was used to access the protected document and view its completion page.
+<img width="1600" height="769" alt="John the Ripper" src="https://github.com/user-attachments/assets/6f39ccc9-35b0-43a9-972c-cc621d417648" />
+
 
 ---
 
@@ -137,6 +139,8 @@ The application identified a matching password and displayed the successful reco
 `nw{networkwalks_flag1_jtr_270521_1}`
 
 The password was used to access the encrypted PDF, revealing the lab completion page.
+<img width="1902" height="899" alt="Screenshot 03" src="https://github.com/user-attachments/assets/362242f6-76a7-4f46-9a13-5c6d0010f585" />
+
 
 ---
 
